@@ -12,3 +12,7 @@ These template are not designed or intended to be a substitute for, nor should i
 2-Vaccine Elig NAS - This scenario is based on information derived from the National Academy of Sciences, Engineering and Medicine's [Framework for Equitable Allocation of Covid-19 Vaccine](https://doi.org/10.17226/25917) current as of December 1, 2020, and the material of the template is otherwise available for no charge at the aforementioned website. New information may not be fully reflected in the scenario template. 
 
 3-Vaccine Elig EE - This scenario represents a basic use case within an organization where employees are surveyed for thier interest in receiving the Covid-19 vaccination and for those deemed to be a priority for receiving the vaccine, the employee would be connected to a Bookings Calendar for scheduling purposes.
+
+While each implementation is unique, here is a possible logic flow that aligns with common use cases we've heard from various organizations.
+
+![Logic Flow](/images/logicflow.png)
