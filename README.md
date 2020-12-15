@@ -13,6 +13,6 @@ These template are not designed or intended to be a substitute for, nor should i
 
 Vax Demos without Flu temp - This is a bridging scenario used to call sub-scenarios for those interested in presenting one scenario with multiple execution pathways.
 
-While each implementation is unique, here is a possible logic flow that aligns with common use cases we've heard from various organizations.
+**Logic Flow**: While each implementation is unique, here is a possible logic flow that aligns with common use cases we've heard from various organizations.
 
 ![Logic Flow](/images/logicflow.png)
